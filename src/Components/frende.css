@@ -1,0 +1,17 @@
+p {
+  font-weight: 700;
+}
+::placeholder {
+  color: blue;
+  font-size: 2em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1em;
+  border: 0.15em solid #4cb307;
+  border-radius: 0.5em;
+  text-align: center;
+}
